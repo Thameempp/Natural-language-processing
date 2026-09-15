@@ -1,0 +1,5 @@
+Naive Bayes
+N-gram Language Model
+Perplexity - MUST KNOW CONCEPT
+Hidden Markov Model (HMM) — KNOW CONCEPTUALLY
+Maximum Likelihood Estimation — KNOW THE IDEA

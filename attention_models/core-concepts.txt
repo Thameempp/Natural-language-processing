@@ -1,0 +1,26 @@
+Attention intuition
+Query
+Key
+Value
+Attention scores
+Attention weights
+Weighted sum
+Self-attention
+Cross-attention
+Scaled dot-product attention
+Multi-head attention
+Positional information
+Positional encoding
+Encoder
+Decoder
+Encoder-decoder Transformer
+Residual connections
+Layer normalization
+Feed-forward network
+Transformer block
+Causal masking
+Padding mask
+Autoregressive generation
+Teacher forcing
+Beam search
+Transformer architecture
