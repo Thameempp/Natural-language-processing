@@ -1,25 +1,18 @@
 # Natural Language Processing Notes
 
-A curated repository of NLP notes for quick revision and practical reference.
+A concise, personal reference repository covering core NLP concepts, mathematical foundations, and code implementations for quick revision and future project reference.
 
-## 📘 About
+## Repository Focus
 
-This repository is used to organize and showcase notes related to Natural Language Processing (NLP), including core concepts, techniques, and examples.
+* **Core Theory:** Fundamental algorithms, probabilistic models, and theoretical frameworks.
+* **Modern Architectures:** Sequence models, attention mechanisms, and transformer-based pipeline implementations.
+* **Practical Code:** Code snippets, preprocessing scripts, and training workflows using standard Python NLP libraries.
 
-## 🧠 Topics Covered
+## Key Topics
 
-- Text preprocessing (tokenization, normalization, stemming, lemmatization)
-- Language models and embeddings
-- Sequence models and transformers
-- Common NLP tasks (classification, NER, sentiment analysis, etc.)
-- Evaluation metrics and practical tips
-
-## 📂 How to Use This Repo
-
-1. Browse the notes files in this repository.
-2. Use them for learning, interview prep, or project reference.
-3. Add/update notes as you continue learning NLP.
-
-## 🤝 Contributions
-
-Feel free to improve the notes by opening issues or pull requests with corrections and additions.
+* **Text Preprocessing:** Tokenization algorithms (BPE, WordPiece), lemmatization, stemming, regex filtering, and vocabulary construction.
+* **Vector Representations:** Bag-of-Words, TF-IDF, Word2Vec (Skip-gram/CBOW), GloVe, and FastText embeddings.
+* **Deep Learning & Sequence Models:** RNNs, LSTMs, GRUs, Seq2Seq, and self-attention mechanism breakdowns.
+* **Transformers & LLMs:** BERT variants, GPT architectures, parameter-efficient fine-tuning (LoRA, QLoRA), and prompt engineering patterns.
+* **Task Pipelines:** Named Entity Recognition (NER), intent classification, sequence labeling, summarization, and RAG architectures.
+* **Evaluation Metrics:** Perplexity, BLEU, ROUGE, Exact Match, and standard classification metrics ($F_1$-score, Precision, Recall).
